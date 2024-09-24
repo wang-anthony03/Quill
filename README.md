@@ -17,6 +17,8 @@ VT100 (and similar terminals) escape sequences, allowing for portability to almo
 
 # Roadmap
 
+- ~~Search Functionality~~
+- ~~Syntax Highlighting~~
 - Undo and Redo
 - Diff Viewer
 - Sectional Undo and Redo
